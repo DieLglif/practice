@@ -1,6 +1,4 @@
 hello dude!
-<<<<<<< HEAD
 punyenta!!!!!
-=======
 Add Conflict!!!!!
->>>>>>> origin/conflict
+lemoooooon
