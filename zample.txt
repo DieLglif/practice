@@ -1,4 +1,8 @@
 hello dude!
+<<<<<<< HEAD
 punyenta!!!!!
 Add Conflict!!!!!
 lemoooooon
+=======
+Da hell!!!!!
+>>>>>>> conflict
